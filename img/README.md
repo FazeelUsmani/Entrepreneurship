@@ -1,1 +1,2 @@
-This folder include images for motivation
+This folder include motivation quotes
+
